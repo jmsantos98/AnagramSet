@@ -1,0 +1,486 @@
+1...	{ aahlln : hallan nallah }  
+14...	{ kkoo : kook }  
+19...	{ er : er re }  { eo : eo oe }  { en : en ne }  { em : em me }  { eh : eh he }  { ee : ee }  
+25...	{ inst : snit tins }  
+59...	{ ddei : deid died }  { ddee : deed }  
+77...	{ gu : gu ug }  
+81...	{ dmo : dom mod }  
+106...	{ ho : ho oh }  
+110...	{ emw : mew wem }  
+135...	{ it : it ti }  { is : is si }  { io : io oi }  { im : im mi }  
+136...	{ doprs : dorps sprod }  
+148...	{ eeemmss : sememes }  
+152...	{ arstw : straw warts }  
+165...	{ eoprt : repot toper }  
+168...	{ gmu : gum mug }  
+193...	{ eensv : neves seven }  { ko : ko ok }  { eenss : esnes sense }  
+197...	{ hmo : mho ohm }  
+223...	{ goprs : gorps sprog }  
+226...	{ ims : mis sim }  { imr : mir rim }  { imm : mim }  
+251...	{ mu : mu um }  { mo : mo om }  
+280...	{ nu : nu un }  { no : no on }  
+281...	{ aikss : sakis sikas }  
+292...	{ aenv : evan nave }  { aent : ante etna neat taen }  { aens : anes sena }  
+309...	{ oz : oz zo }  { oy : oy yo }  { ow : ow wo }  { os : os so }  { op : op po }  { oo : oo }  
+321...	{ bens : bens sneb }  
+342...	{ mmu : mum }  { mmo : mom }  
+379...	{ dens : dens sned }  
+408...	{ eenr : neer reen }  { eenp : neep peen }  { eenv : even neve }  { eent : eten nete }  
+413...	{ aerrt : arret terra }  
+455...	{ ooprs : roops spoor }  { ooprt : poort troop }  { deinns : dennis sinned }  { aaklot : atokal lakota }  
+502...	{ pptuu : putup }  
+558...	{ orstw : strow worts }  
+594...	{ bloo : lobo obol }  
+639...	{ aprsst : sparts straps }  
+663...	{ bosw : bows swob }  { bost : bots stob }  
+678...	{ adlu : dual laud }  
+710...	{ floo : fool loof }  { flow : flow wolf }  
+744...	{ abt : bat tab }  { abn : ban nab }  { abm : bam mab }  { abg : bag gab }  { abd : bad dab }  { abb : bab }  { abr : arb bra }  { abo : abo oba }  
+759...	{ deersst : dessert tressed }  
+770...	{ eeirrvv : reviver }  
+773...	{ bbu : bub }  { bbo : bob }  { bbi : bib }  
+835...	{ ant : nat tan }  { ans : nas san }  { anp : nap pan }  { ann : nan }  
+864...	{ bnu : bun nub }  
+871...	{ iprsst : spirts strips sprits stirps }  
+900...	{ dees : dees seed }  { deer : deer reed }  { deep : deep peed }  { deem : deem meed }  
+922...	{ dno : don nod }  
+948...	{ eellv : level }  { eellm : lemel }  
+951...	{ enw : new wen }  { ent : net ten }  { enp : nep pen }  
+963...	{ beirt : rebit tiber }  
+987...	{ airst : airts stria }  
+992...	{ ceirs : cires seric }  
+993...	{ asstw : staws swats }  
+1011...	{ nosw : snow wons }  { nost : snot tons }  
+1038...	{ hno : hon noh }  
+1045...	{ oprsst : sports strops }  
+1067...	{ int : nit tin }  { ins : nis sin }  { inp : nip pin }  
+1074...	{ dirst : dirts strid }  
+1109...	{ esstt : stets }  
+1158...	{ izz : ziz }  
+1161...	{ girst : girts strig }  
+1185...	{ acnrs : narcs scran }  
+1191...	{ amoss : samos somas }  
+1202...	{ airs : rias sair }  { airt : rait tiar }  
+1212...	{ nnu : nun }  { nno : non }  
+1219...	{ iirss : siris }  
+1239...	{ aahhww : hawhaw wahwah }  
+1260...	{ apsst : spats staps }  
+1268...	{ deiprs : redips spider }  
+1271...	{ einnst : sinnet tennis }  
+1304...	{ aelss : seals slaes }  
+1341...	{ msstu : smuts stums }  
+1376...	{ girt : girt trig }  
+1384...	{ adsw : daws swad }  
+1399...	{ osstw : stows swots }  { osstt : stots }  
+1406...	{ amos : amos soma }  
+1420...	{ eelst : leets steel sleet teels }  
+1434...	{ iirs : iris siri }  
+1437...	{ egmno : emong gnome }  
+1475...	{ apsy : spay yaps }  { apss : saps spas }  { apsw : paws swap }  { apst : pats stap spat taps }  
+1493...	{ dmoo : doom mood }  
+1505...	{ eerssv : serves sevres }  
+1519...	{ aelt : leat tael }  { aelr : laer real }  
+1525...	{ deilsv : devils slived }  
+1544...	{ aswy : sway yaws }  
+1561...	{ loops : loops spool pools sloop }  
+1585...	{ acm : cam mac }  
+1590...	{ moops : moops spoom }  
+1591...	{ epst : pets step }  
+1596...	{ dloor : drool loord }  
+1606...	{ dels : dels sled }  
+1619...	{ noops : noops spoon poons snoop }  
+1635...	{ eelt : leet teel }  { eelr : leer reel }  { eelp : leep peel }  { eels : eels slee lees seel }  
+1640...	{ aeprs : reaps spaer }  
+1666...	{ opsst : spots stops }  
+1676...	{ aot : oat tao }  
+1705...	{ boy : boy yob }  { bos : bos sob }  { bor : bor rob bro orb }  
+1706...	{ acers : cares serac }  
+1707...	{ ipst : spit tips }  
+1725...	{ lmoo : loom mool }  
+1734...	{ cos : cos soc }  { cor : cor roc }  
+1759...	{ agnsw : gnaws swang }  { agnst : gnats stang }  
+1763...	{ dot : dot tod }  { dos : dos sod }  { dor : dor rod }  { dop : dop pod }  
+1821...	{ for : fro orf }  
+1844...	{ aimrs : ramis simar }  
+1850...	{ got : got tog }  
+1879...	{ hos : hos soh }  { hop : hop poh }  { hoo : hoo ooh oho }  
+1881...	{ opsw : pows swop }  { opst : pots stop spot tops }  
+1891...	{ efirs : fires serif }  
+1953...	{ aceprs : recaps spacer }  
+1960...	{ eimrt : remit timer }  
+1974...	{ agnw : gnaw wang }  { agnt : gnat tang }  { agnr : gnar rang }  
+1995...	{ los : los sol }  
+2008...	{ deorrt : dorter retrod }  
+2010...	{ aesst : asset tessa }  { aesss : asses sessa }  
+2024...	{ mot : mot tom }  { mor : mor rom }  { mop : mop pom }  { moo : moo oom }  { ilms : mils slim }  
+2053...	{ noy : noy yon }  { now : now won }  { not : not ton }  { nos : nos son }  { nor : nor ron }  
+2126...	{ eessx : sexes }  { eessy : sesey yeses }  
+2130...	{ eeilrrv : reliver reviler }  
+2148...	{ enost : notes seton }  
+2185...	{ bboo : boob }  
+2225...	{ aest : etas sate }  
+2247...	{ anov : avon nova }  
+2312...	{ desy : deys syed }  { desu : deus sued }  
+2322...	{ knost : knots stonk }  
+2327...	{ aamss : assam massa }  
+2334...	{ dnos : dons snod }  
+2341...	{ eess : esse sees }  
+2348...	{ ccssuu : succus }  
+2363...	{ enor : oner reno }  { enot : eton note }  { enos : enos sone }  
+2373...	{ aaaallmmy : malayalam }  
+2426...	{ adw : daw wad }  { ads : das sad }  { adp : dap pad }  { adm : dam mad }  { adl : dal lad }  { adh : dah had }  { adg : dag gad }  { add : dad }  { ado : ado oda }  
+2455...	{ bdu : bud dub }  { bdo : bod dob }  { bdi : bid dib }  { bde : bed deb }  
+2479...	{ inor : iron nori }  
+2484...	{ cdo : cod doc }  
+2498...	{ eilnsv : levins snivel }  
+2513...	{ ddu : dud }  { ddo : dod }  { ddi : did }  
+2517...	{ apy : pay yap }  { apw : paw wap }  { apt : pat tap }  { aps : pas sap }  { apr : par rap }  { app : pap }  
+2537...	{ knot : knot tonk }  
+2542...	{ aams : maas saam }  { aamm : maam }  
+2604...	{ dpu : dup pud }  
+2624...	{ nnoo : noon }  
+2633...	{ epr : per rep }  { epp : pep }  
+2651...	{ deefiir : deifier reified }  
+2669...	{ lmoos : mools sloom }  
+2686...	{ ennost : sonnet tennos }  
+2691...	{ gpu : gup pug }  
+2704...	{ eorrst : retros sorter }  
+2749...	{ ipt : pit tip }  { ips : pis sip }  { ipp : pip }  
+2887...	{ esuz : suez zeus }  
+2920...	{ deopt : depot toped }  
+2923...	{ opw : pow wop }  { opt : pot top }  { ops : pos sop }  { opp : pop }  
+2942...	{ arssu : sarus suras }  
+2952...	{ ppu : pup }  
+2983...	{ eenrs : reens sneer }  
+3009...	{ deerssst : desserts stressed }  
+3132...	{ adhs : dahs shad }  
+3152...	{ acrtt : tcart tract }  
+3157...	{ arst : rats star }  
+3175...	{ door : door rood }  
+3192...	{ looss : solos }  { loost : loots stool sloot tools }  
+3201...	{ agls : gals slag }  
+3215...	{ crsu : rucs scur }  
+3221...	{ moost : smoot tooms }  
+3250...	{ noost : snoot toons }  
+3267...	{ aes : eas sae }  { aen : ean nae }  { aev : ave eva }  { aet : ate eta eat tae }  { aer : are era ear rae }  { ael : ale ela }  
+3291...	{ hoos : ohos soho oohs shoo }  { hoop : hoop pooh }  
+3296...	{ ben : ben neb }  
+3325...	{ cep : cep pec }  
+3346...	{ fglo : flog golf }  
+3354...	{ dew : dew wed }  { den : den ned }  { del : del led }  { def : def fed }  
+3383...	{ eey : eye }  { eew : ewe }  { eev : eve }  { eem : eme }  { eek : eke }  { eer : eer ree ere }  { een : een nee ene }  { eel : eel lee }  
+3389...	{ irst : rits stir }  
+3393...	{ eerrtt : terret }  
+3407...	{ loot : loot tool }  { loos : loos sool }  { loop : loop pool }  
+3436...	{ moot : moot toom }  { moor : moor room }  
+3442...	{ eeiisst : seities }  
+3465...	{ noop : noop poon }  
+3475...	{ deers : redes seder }  
+3486...	{ aailmn : animal lamina }  
+3492...	{ aknps : knaps spank }  
+3505...	{ mrsu : rums smur }  
+3510...	{ lnoos : loons snool }  { alrsu : larus sural }  
+3555...	{ eelpss : sleeps speels }  
+3568...	{ ddeerr : redder }  
+3586...	{ acdel : decal laced }  
+3603...	{ aabln : alban nabla }  
+3637...	{ aaann : anana }  
+3685...	{ bins : bins snib }  
+3723...	{ eettv : tevet }  
+3725...	{ alry : aryl lyra }  
+3733...	{ aammrr : marram }  
+3769...	{ aakr : arak kara }  
+3830...	{ gins : gins snig }  
+3838...	{ adop : apod dopa }  { ados : ados soda }  
+3904...	{ abdr : bard drab }  
+3907...	{ agst : gats stag }  
+4009...	{ acmsu : camus sumac }  
+4089...	{ abtu : abut tuba }  
+4094...	{ aelrs : lares seral }  
+4108...	{ afr : far raf }  
+4114...	{ essy : seys syes }  
+4126...	{ adeipr : diaper repaid }  
+4128...	{ ikpss : skips spiks }  
+4199...	{ arw : raw war }  { art : rat tar }  { ars : ras sar }  { ary : ayr rya }  
+4210...	{ eelrs : reels sleer }  { eelrv : lever revel }  
+4224...	{ acms : macs scam }  { eft : fet tef }  { efn : fen nef }  { acmr : cram marc }  
+4227...	{ ekps : keps spek }  
+4228...	{ bru : bur rub }  
+4230...	{ aikns : kisan nasik }  
+4241...	{ deeglr : gelder redleg }  
+4257...	{ cru : cur ruc }  
+4261...	{ eglos : loges segol }  
+4284...	{ eelstu : elutes setule }  
+4290...	{ aabb : abba }  { aabs : abas saba }  { aabc : abac caba }  
+4295...	{ eerrss : serres }  
+4343...	{ ikps : kips spik }  
+4350...	{ rssttu : struts sturts }  
+4351...	{ amrst : smart trams }  
+4367...	{ almru : larum mural }  
+4373...	{ gru : gur rug }  
+4418...	{ cciiv : civic }  
+4427...	{ addel : dedal laded }  
+4467...	{ emrsu : mures serum }  
+4566...	{ amrt : mart tram }  
+4576...	{ nru : nur run }  
+4605...	{ ort : rot tor }  
+4610...	{ abkr : bark krab }  
+4687...	{ dinor : nidor rodin }  
+4714...	{ eellss : selles }  
+4745...	{ acde : dace ecad }  
+4748...	{ ahsy : shay yahs }  
+4766...	{ deor : oder redo }  
+4784...	{ eilsv : evils slive }  
+4798...	{ imrs : rims smir }  
+4801...	{ cceors : reccos soccer }  
+4863...	{ bertu : rebut tuber }  
+4883...	{ ails : lias sail }  { ailr : aril lira lair rial liar rail }  
+4938...	{ enors : rones senor }  
+4949...	{ agt : gat tag }  { ags : gas sag }  { agr : gar rag }  { agn : gan nag }  { agm : gam mag }  { agl : gal lag }  { agg : gag }  
+4952...	{ alps : pals slap }  { alpp : palp plap }  
+4970...	{ deimn : denim mined }  { deimt : demit timed }  
+4978...	{ bgo : bog gob }  { bgi : big gib }  
+4985...	{ ikkrs : kirks skrik }  
+4999...	{ eils : lies seil }  { eiln : lien neil }  { eilr : leir riel }  { eilv : evil live }  
+5036...	{ dgo : dog god }  { dgi : dig gid }  
+5040...	{ asw : saw was }  { ast : sat tas }  
+5065...	{ egt : get teg }  { egm : gem meg }  { egl : gel leg }  
+5069...	{ bsu : bus sub }  
+5070...	{ aelsst : salets stelas }  
+5094...	{ fgi : fig gif }  
+5113...	{ aeepprr : repaper }  
+5123...	{ ggo : gog }  { ggi : gig }  
+5126...	{ glpu : gulp plug }  
+5156...	{ esy : sey yes }  { est : set tes }  
+5184...	{ ilps : pils slip }  
+5186...	{ eelsst : sleets steels }  
+5243...	{ hss : shs }  
+5272...	{ ist : sit tis }  { iss : sis }  
+5287...	{ defl : delf fled }  
+5316...	{ eefr : feer reef }  
+5327...	{ loopss : sloops spools }  
+5338...	{ aknr : knar rank }  
+5355...	{ iknst : knits stink }  
+5367...	{ bknu : bunk knub }  { bkno : bonk knob }  
+5369...	{ eelnv : leven nevel }  
+5385...	{ noopss : snoops spoons }  
+5387...	{ llppuu : pullup }  
+5424...	{ inrst : snirt trins }  
+5427...	{ oott : otto toot }  
+5446...	{ osy : soy yos }  { osw : sow wos }  { oss : sos }  
+5472...	{ acerss : scares seracs }  
+5475...	{ psu : pus sup }  
+5562...	{ ssu : sus }  { sst : sts }  { mmoott : motmot tomtom }  
+5570...	{ iknt : knit tink }  
+5586...	{ addu : daud duad }  { addr : dard drad }  
+5589...	{ aist : itas sati }  
+5638...	{ aadrr : radar }  
+5689...	{ deirrs : derris sirred }  
+5790...	{ ahy : hay yah }  { ahp : hap pah }  { ahl : hal lah }  { ahj : haj jah }  { ahh : hah }  
+5793...	{ amps : maps spam }  
+5807...	{ eemss : seems smees }  { eemst : meets steem }  
+5819...	{ bho : boh hob }  
+5869...	{ aeegnss : sagenes senegas }  
+5872...	{ aakkz : kazak }  { aakky : kayak }  { aakkn : kanak }  
+5877...	{ dho : doh hod }  
+5881...	{ atw : taw wat }  { att : tat }  
+5906...	{ ehr : her reh }  { ehs : ehs she }  { aemx : amex xema }  
+5910...	{ btu : but tub }  
+5943...	{ eilot : eliot toile }  
+5993...	{ hhu : huh }  { hho : hoh }  { demo : edom mode }  
+5997...	{ etw : tew wet }  { ett : tet }  
+6008...	{ aagss : sagas }  
+6022...	{ eemt : meet teem }  { eems : emes seme }  
+6025...	{ iimmn : minim }  
+6033...	{ aorss : saros soras }  
+6055...	{ gtu : gut tug }  
+6113...	{ itw : tiw wit }  { itt : tit }  
+6120...	{ dorsw : drows sword }  
+6223...	{ aags : agas saga }  { aagr : agar raga }  
+6258...	{ ntu : nut tun }  
+6277...	{ bors : bros sorb }  
+6281...	{ ahhss : shahs }  
+6287...	{ otw : tow wot }  { ott : tot }  
+6293...	{ eloort : looter retool }  
+6295...	{ elno : leon noel }  
+6316...	{ ptu : put tup }  
+6335...	{ dorw : drow word }  
+6364...	{ eors : eros sore }  
+6410...	{ norst : snort trons }  
+6411...	{ ilno : lion noil }  
+6413...	{ adors : doras sarod }  
+6419...	{ anpss : snaps spans }  
+6428...	{ deennst : dennets stenned }  
+6432...	{ ttu : tut }  
+6439...	{ oorst : roots stoor }  
+6477...	{ egor : ergo ogre }  
+6496...	{ ahhs : hahs shah }  { ademn : deman named }  
+6535...	{ ggoo : goog }  
+6538...	{ aannruu : nauruan }  
+6562...	{ eekls : keels sleek }  
+6612...	{ aett : etat tate }  
+6631...	{ air : air ria }  
+6634...	{ anps : naps span pans snap }  
+6646...	{ aallmm : mallam }  
+6651...	{ inpss : snips spins }  
+6660...	{ bio : ibo obi }  { bit : bit tib }  { bis : bis sib }  { bin : bin nib }  
+6686...	{ deopst : depots stoped }  
+6689...	{ cit : cit tic }  
+6718...	{ dit : dit tid }  { dis : dis sid }  { din : din nid }  { dim : dim mid }  
+6783...	{ adrsw : draws sward }  { adrst : darts strad }  
+6799...	{ acmrs : marcs scram }  
+6805...	{ git : git tig }  { gip : gip pig }  { gil : gil lig }  
+6814...	{ acein : caine eniac }  
+6832...	{ adiln : ladin nidal }  { adilr : drail liard }  
+6858...	{ deeins : denies seined }  { deeinr : denier reined }  
+6865...	{ aabrs : arbas sabra }  
+6866...	{ inps : nips spin pins snip }  
+6873...	{ iirrtt : tirrit }  
+6874...	{ aprst : parts strap spart traps sprat tarps }  
+6896...	{ guy : guy yug }  { guv : guv vug }  
+6929...	{ aann : anan nana anna naan }  
+6958...	{ loosst : sloots stools }  
+6990...	{ eprst : perts strep }  
+6997...	{ bdetu : debut tubed }  
+6998...	{ adry : dray yard }  { adrw : draw ward }  { adrt : dart trad }  
+7001...	{ elux : exul luxe }  
+7027...	{ bdru : burd drub }  
+7064...	{ abgr : brag garb }  
+7079...	{ knstu : knuts stunk }  
+7089...	{ aprs : raps spar }  { aprt : part trap prat tarp }  
+7099...	{ aaikk : kaiak }  
+7101...	{ effor : offer reffo }  
+7104...	{ ilppsu : pupils slipup }  
+7106...	{ iprst : spirt trips }  
+7133...	{ aahms : amahs shama }  
+7157...	{ puy : puy yup }  
+7176...	{ ddeenn : denned }  
+7212...	{ ceerst : secret terces }  
+7215...	{ aderrw : drawer reward redraw warder }  
+7249...	{ eekp : keep peek }  { eekl : keel leek }  { eekk : keek }  
+7264...	{ aaoorrttv : rotavator }  
+7271...	{ aksu : auks skua }  
+7273...	{ tuu : utu }  
+7280...	{ oprst : ports strop }  
+7286...	{ acepr : pacer recap }  
+7289...	{ dhos : dohs shod }  
+7306...	{ ddeefii : deified }  
+7337...	{ aeemn : amene enema }  
+7371...	{ oowwww : wowwow }  
+7385...	{ eegir : eiger regie }  
+7404...	{ eentt : tenet }  
+7415...	{ deostv : devots stoved }  
+7469...	{ aallu : alula }  
+7472...	{ ajt : jat taj }  { ajr : jar raj }  
+7519...	{ adil : dial laid }  { adiv : avid diva }  
+7541...	{ abcder : braced decarb }  
+7548...	{ bdir : bird drib }  
+7562...	{ dopr : dorp prod }  
+7574...	{ eilrt : relit tiler }  
+7588...	{ agmr : gram marg }  
+7624...	{ aerst : resat taser }  
+7649...	{ gopu : ogpu upgo }  { gopr : gorp prog }  
+7653...	{ bersu : rebus suber }  
+7655...	{ adeil : ailed delia }  { adeir : aider redia }  
+7666...	{ oopst : poots stoop }  
+7678...	{ hops : pohs shop }  
+7694...	{ aoorrtt : rotator }  
+7734...	{ adeiln : delian nailed }  
+7740...	{ eerss : seres }  
+7746...	{ z : z }  { y : y }  { x : x }  { w : w }  { v : v }  { u : u }  { t : t }  { s : s }  { r : r }  { q : q }  { p : p }  { o : o }  { n : n }  { m : m }  { l : l }  { k : k }  { j : j }  { i : i }  { h : h }  { g : g }  { f : f }  { e : e }  { d : d }  { c : c }  { b : b }  { aaw : awa }  { aw : aw wa }  { aav : ava }  { at : at ta }  { aas : asa }  { as : as sa }  { ar : ar ra }  { aan : ana }  { an : an na }  { am : am ma }  { aal : ala }  { aai : aia }  { aah : aha }  { ah : ah ha }  { aag : aga }  { ae : ae ea }  { aad : ada }  { ad : ad da }  { aab : aba }  { ab : ab ba }  { aa : aa }  { a : a }  
+7760...	{ deilv : devil lived }  { deils : delis siled }  
+7770...	{ abns : bans snab }  
+7775...	{ bo : bo ob }  
+7795...	{ ivv : viv }  
+7833...	{ do : do od }  { di : di id }  
+7838...	{ beett : tebet }  
+7839...	{ aers : ares sera }  
+7861...	{ anno : anon nona }  
+7881...	{ oopr : poor roop }  { oopp : oppo poop }  
+7891...	{ eefrr : refer }  
+7913...	{ aknrs : krans snark }  
+7926...	{ dery : drey yerd }  
+7950...	{ ortw : trow wort }  { ortt : tort trot }  
+7955...	{ eers : rees seer }  
+8076...	{ abest : sebat tabes }  
+8088...	{ eflorw : reflow wolfer }  
+8125...	{ ahirrs : harris sirrah }  
+8156...	{ aalv : aval lava }  { aalm : alma amla }  { aaln : alan nala anal lana }  
+8291...	{ abel : able elba }  
+8313...	{ aky : kay yak }  { akm : kam mak }  
+8320...	{ bbee : beeb }  
+8336...	{ deeilrv : deliver reviled }  
+8344...	{ ilst : slit tils }  
+8385...	{ astw : staw wats swat taws }  
+8404...	{ awy : way yaw }  { aww : waw }  
+8414...	{ bstu : buts stub }  
+8418...	{ ceir : cire eric }  
+8429...	{ ekn : ken nek }  
+8447...	{ deit : edit tide }  { dein : dine enid }  { deil : deil lied }  
+8476...	{ eeir : eire erie }  
+8501...	{ estw : stew wets }  
+8520...	{ ewy : wey yew }  
+8523...	{ lssuu : sulus }  
+8583...	{ deeil : edile elide }  
+8611...	{ acnr : cran narc }  
+8662...	{ deeils : elides sedile }  
+8704...	{ enorss : serons snores }  
+8726...	{ sssuu : susus }  
+8730...	{ aainr : arian naira }  
+8733...	{ mstu : smut tums }  
+8734...	{ ttttuu : tuttut }  
+8736...	{ deimst : demits stimed }  
+8746...	{ adgr : darg grad }  
+8762...	{ nstu : nuts stun }  
+8791...	{ ostw : stow wots swot tows }  { ostt : stot tots }  
+8799...	{ admno : damon nomad }  
+8810...	{ oww : wow }  { eennrt : rennet tenner }  
+8900...	{ aeglr : lager regal }  
+8901...	{ ddeew : dewed }  
+8921...	{ ennot : nonet tenon }  
+8953...	{ amsw : maws swam }  
+9026...	{ bblu : blub bulb }  
+9055...	{ deeps : deeps speed }  
+9069...	{ emsw : smew wems }  
+9115...	{ aadfr : daraf farad }  
+9124...	{ ceps : ceps spec }  
+9127...	{ gmsu : gums smug }  
+9154...	{ alv : lav val }  { als : las sal }  { alp : lap pal }  { alm : lam mal }  
+9171...	{ eimst : emits stime }  
+9182...	{ eeps : pees seep }  { eepp : peep }  
+9190...	{ ccee : ecce }  
+9229...	{ oorrt : rotor }  
+9270...	{ elz : lez zel }  { elt : let tel }  { els : les sel }  { elm : lem mel }  { aims : amis sima }  { aimr : amir rima }  
+9287...	{ iimss : simis }  
+9297...	{ eeflrt : reflet telfer }  
+9317...	{ efis : fies seif }  
+9337...	{ eestv : evets steve }  
+9357...	{ aahhnn : hannah }  
+9383...	{ aajr : ajar raja }  
+9386...	{ ilt : lit til }  { iln : lin nil }  { eimt : emit time }  { eimr : emir rime }  
+9488...	{ eegsu : euges segue }  
+9550...	{ bgru : burg grub }  
+9552...	{ abbco : bobac cabob }  
+9554...	{ deinos : edison noside }  
+9587...	{ aadmm : madam }  
+9591...	{ mnotu : muton notum }  
+9626...	{ ekoss : sekos sokes }  
+9640...	{ aemnr : namer reman }  
+9674...	{ aelps : elaps spale }  
+9703...	{ abst : bats stab }  
+9758...	{ adesv : devas saved }  
+9790...	{ eelpr : leper repel }  { eelps : leeps speel peels sleep }  
+9794...	{ anst : nats stan }  
+9823...	{ bnsu : buns snub }  
+9824...	{ eekrs : reeks skeer }  
+9910...	{ enst : nets sten }  
+9957...	{ aagns : nagas sagan }  
+9968...	{ gnsu : gnus sung guns snug }  
+9973...	{ adem : edam made }  
+9995...	{ amy : may yam }  { amt : mat tam }  { ams : mas sam }  { amr : mar ram }  { amp : map pam }  { amn : man nam }  { amm : mam }  
+
+Number of words = 2878	tableSize = 10001
+Total number of nonEmpty buckets = 480
+Percent empty = 95.2005
+Longest chain = 47
+

@@ -1,0 +1,115 @@
+What is the file name? words.txt
+Press Enter to start tests.
+Starting Tests...
+Read in 199740 words
+Done reading words, elapsed time = 20
+
+Press any key to continue
+
+Done creating dictionary, elapsed time = 329
+The first 20 nonempty buckets of the dictionary are printed below.
+0...    { ehnsssy : shyness }  { eeiopprr : roperipe }  { aeinnoorstv : renovations }  { gginoostu : outgoings }  { aiilmnrsstu : luminarists }  { aadeilnrtw : landwaiter }  { eggijnssu : jugginses }  { egiiinnqtu : inquieting }  { eeiopprs : epispore }  { cdeestt : detects }  { deegiilmnopryz : depolymerizing }  { begiimnr : bemiring }
+1...    { deeehlrw : wheedler }  { aahllw : wallah }  { eiilrsttw : twirliest }  { bcceeilorrttu : turboelectric }  { eiilrsttz : strelitzi }  { eiilrstty : sterility }  { deeenpr : preened }  { aahllp : pallah }  { ceimnnoopty : omnipotency }  { abehiinrst : inhabiters reinhabits }  { horsst : horsts shorts }  { aahllo : halloa }  { aahlln : hallan nallah }  { aahlls : halals }  { deefiors : foreside }  { acdeghirss : discharges }  { acdiiipr : diapiric }  { deeenps : deepens }  { bdet : debt }  { acdenos : deacons }  { ceeorsv : corvees }  { ceeorsu : cereous }  { aacehilpst : caliphates chaptalise }  { aacehilpss : calipashes }  { bder : bred }  { bdeo : bode }  { bdel : bled }  { bdei : bide dieb }  { bden : bend }  { bdes : beds debs }  { bdee : bede }  { acdehkru : archduke }  { aaeelorssty : araeostyles }  { aaefmrrsstw : afterswarms }  { acdenor : acorned dracone }
+2...    { aehlrrtu : urethral }  { aabhklnsuy : unshakably }  { abegilnossx : signalboxes }  { chkmsu : shmuck }  { aceelloorrrsst : rollercoasters }  { eeiloprsstyz : proselytizes }  { ceenoprrst : precentors }  { aeginnptt : patenting }  { aeiiorsst : ostiaries }  { ijmnoortw : jointworm }  { ahiiijknrss : jinrikishas }  { aacdeeilnrtt : intercalated }  { aagiinnortuu : inauguration }  { deinssstu : dustiness }  { bchim : chimb }  { aabcdinrrsy : canarybirds }  { abgmnoy : bogyman }  { bchit : bitch }  { bchir : birch }
+3...    { adennorstuuuv : unadventurous }  { ahortty : throaty }  { egllos : solgel }  { deffnoss : sendoffs }  { aabddegls : saddlebag }  { cdiooprs : prosodic }  { cehinopt : phonetic }  { cgiilmnny : mincingly }  { eiilmrs : milreis slimier }  { eiilmrt : leitrim limiter }  { aadgilnnprty : landingparty }  { aceertx : exacter excreta }  { cehinopu : euphonic }  { ceeeegiptx : epexegetic }  { ceeelrstt : electrets tercelets }  { ceeelrstv : cleverest }  { cehinops : chopines echinops }  { abceeinorrst : cerebrations }
+4...    { eeghinwz : wheezing }  { aelluvv : valvule }  { deennoprtu : tenpounder }  { aeilnsstt : taintless }  { aaeginnnprstuu : superannuating }  { aeilnsstw : slantwise }  { cceeghiinostz : schizogenetic }  { eeiinnorsttt : retentionist }  { eeillmpssssu : psellismuses }  { eegoopy : poogyee }  { amrrty : martyr }  { acgiilnort : loricating }  { eikllr : killer }  { aeilnsstu : insulates }  { eiklly : ilkley likely }  { aabgiillnoostz : globalizations }  { aagillpssw : galliwasps }  { clmpu : clump }  { aabinoprstt : bonapartist }  { bitt : bitt }  { adeeiirsstv : adversities }
+5...    { abceeeeilprrssuv : superserviceable }  { aeeeiilmnnssttz : sentimentalizes }  { ceehhinoprssz : schizophrenes }  { ceiloooprtz : protocolize }  { deeloopruw : owerlouped }  { eeillnv : neville }  { eeillns : nellies }  { ijlloty : jollity }  { eeinprrrsttu : interrupters }  { aaccdiiilnorsty : idiosyncratical }  { aehiilprrstt : hairsplitter }  { acceginoorrtt : gerontocratic }  { aceefghlnnssu : changefulness }
+6...    { aaimnrstt : tarantism }  { adeeeinnrssst : sedentariness }  { aijmor : romaji }  { aacciilprstt : practicalist }  { acceeimr : icecream }  { abdeeglorst : goldbeaters }  { abcellnoors : collarbones }  { aabceeirrtuuz : bureaucratize }  { adhimopp : amphipod }
+7...    { cdegilnnooru : undercooling }  { aademnrst : tradesman }  { aaccdelstu : sacculated }  { aceeorrstt : rectorates stercorate }  { adeeennrx : reannexed }  { aceeorrstv : overreacts }  { delnru : nurdle nurled rundle }  { bbdeiln : nibbled }  { cehiinnoos : incohesion }  { afghilps : flagship }  { aceeghloprrty : electrography }  { bbdeils : dibbles }  { bbdeilr : dibbler dribble }  { abllmopsw : blowlamps }  { bbdeilo : bilobed lobbied }  { bcdeek : becked bedeck }
+8...    { aaeiiilnnorsstuv : universalisation }  { adhnoopqruy : quadrophony }  { ddeeorstuv : overdusted }  { deeglmnot : lodgement }  { eghhsu : heughs hughes sheugh }  { flooyz : floozy }  { efimnstt : fitments }  { aceefnsy : fayences }  { aceehinnsst : encanthises }  { bbcilmsu : clubbism }  { acelqrsuu : claqueurs }  { abjsu : bajus jubas }  { aceegiinnortu : auctioneering }
+9...    { fhiloprsuw : worshipful }  { aaceegillloops : spelaeological }  { eimnnooost : monotonies }  { aacdhlmnr : marchland }  { aellmt : mallet }  { aellmy : lamely mellay }  { gijllnoty : joltingly }  { aghiiilnprstt : hairsplitting }  { aeefghinrst : featherings }  { ceeforrrss : crossrefer }  { aeioppst : apposite }  { aceeenppt : appetence }  { aehhimnooopprrst : anthropomorphise }
+10...   { ginorrsttu : torturings }  { mnoopt : tompon }  { eeeeehhlrrtw : threewheeler }  { gimmnssu : summings }  { aacdgillnns : scandalling }  { mnoopp : pompon }  { ddeeiikmnrrst : kidderminster }  { aachiillnooost : alcoholisation }  { aabdimnortu : adumbration }
+11...   { aehiinorsttt : trithionates }  { eikllorrstw : trelliswork }  { aaeirrstt : tartarise }  { billstuw : swilltub }  { billstuy : subtilly }  { aacgillmooost : somatological }  { acceiisstv : siccatives }  { adehmosy : shamoyed }  { aadegsv : savaged }  { eeggorr : regorge }  { abeinooprrttu : protuberation }  { adehmosu : madhouse }  { aeehhirt : heathier }  { adehmost : headmost }  { aacddegghilnrrt : greatgrandchild }  { ehimpsuu : euphuism }  { aceehiimprrt : epirrhematic }  { abbcegir : cribbage }  { aaceehhmpsty : chamaephytes }  { bcdeehoprs : beechdrops }  { aabeelrrst : arbalester arrestable }  { aacccdnory : accordancy }
+12...   { hiklw : whilk }  { innpsu : unpins }  { hiklt : thilk }  { ceiimnosttu : teutonicism }  { innpsy : spinny }  { cekpry : rypeck }  { cekpru : pucker }  { eikoppr : porkpie }  { deiioopprrst : poorspirited }  { aflmstu : mastful }  { eikopps : koppies }  { aacfilnorst : infracostal }  { cdeeeiinnrrssv : dinnerservices }  { acdiorstt : dictators }  { aadeeisttvv : devastative }  { abcgiln : cabling }
+13...   { eeilltvy : velleity }  { cghhikosttu : thoughtsick }  { aaaghhmoprttuy : thaumatography }  { egiiilllnnps : spillingline }  { eeeloprtw : peeltower }  { aeeorstvx : overtaxes }  { aaacejknps : jackanapes }  { aefhrrt : farther }  { aegiilnpptyz : appetizingly }
+14...   { aeeehprssww : sweepwasher }  { dgilnoorssty : strongyloids }  { cdelnoost : stonecold }  { aaeekqssu : seaquakes }  { aceehlopssuxy : sceuophylaxes }  { agmoopry : porogamy }  { eilotuv : outlive }  { adddefflos : offsaddled }  { ffhios : offish }  { eeeinorstz : neoterizes }  { deiimnrtw : midwinter }  { kkoo : kook }  { eeimnpsst : emptiness sepiments }  { addeimnyz : dynamized }  { ddeeiimrsu : desiderium }  { cdelnoosw : closedown }  { bbellosuy : bellbuoys }  { aaalnpsty : anaplasty }
+15...   { aghooopsuz : zoophagous }  { eeeghnw : wheenge }  { adeelnrrsuy : underlayers }  { blnotu : unbolt }  { abeiiiilssttu : suitabilities }  { aeirrssttu : striatures }  { clloopss : scollops }  { ilmoory : roomily }  { adeiiinnprs : peridinians }  { aaabelnoprssu : parabolanuses }  { deeehrsss : herdesses }  { dgiinoprsv : disproving }  { dgiinoprst : disporting }  { aceinnort : container crenation narcotine }  { accdehhnrruw : churchwarden }  { aceinnors : canonries censorian }  { aabegknnt : bankagent }  { aaceehintttu : authenticate }
+16...   { eillnoossw : woolliness }  { bcddeeeilnnsu : undescendible }  { abeinssu : unbiases }  { acefirtt : trifecta }  { egirsst : striges tigress }  { aehorsssw : sawhorses }  { bdddeeim : imbedded }  { cehhoos : hooches }  { cgnnoosttu : guncottons }  { egirssu : guisers }  { cefssuu : fucuses }  { acefirty : feracity }  { eghiinnopuz : euphonizing }  { acehnnt : enchant }  { bdddeeir : debrided }  { aaceiilnnoorssttv : conversationalist }  { aaceggiilmnnoorst : congregationalism }  { acehnnr : channer }  { abeinsst : basinets bassinet }  { aahllopt : allopath }  { abdiilmssy : admissibly }
+17...   { dehinw : whined }  { eennruv : unnerve }  { egiimnnrtu : unmeriting }  { ciirsttu : truistic }  { chlosuy : slouchy }  { dehins : shined }  { deeginnorrs : reendorsing }  { adloprsu : poulards }  { aceehiipprt : perihepatic }  { aehlmopssu : palmhouses }  { gijno : jingo }  { aaeiilmmrt : immaterial }  { dehino : hoiden honied }  { dehint : hinted }  { dehinr : hinder }  { aehinrrty : erythrina }  { ccdeeeeefnrsv : defervescence }  { acelmoosu : coalmouse }  { ccdeehiksw : chickweeds }  { aacddeeehnrs : casehardened }  { aaacghlln : callaghan }  { bceehimrss : besmirches }
+18...   { cdeehlnortu : underclothe }  { cdeellnnosuu : uncounselled }  { aadenssuy : unassayed }  { aceilnortu : ulceration }  { eelmnnosss : solemnness }  { aeelnorsvw : slaveowner }  { aceghnoprsy : scenography }  { eiinnnps : ninepins }  { aceilnorty : lectionary }  { cdeeeeiinnpx : inexpedience }  { aacdeinquy : inadequacy }  { efmnorty : fromenty }  { eefiillnossttu : feuilletonists }  { cenorsstw : crowsnest }  { accnoortt : contactor }  { cenorsstu : construes }  { cdllloop : clodpoll }  { accgimorrrtuyy : circumgyratory }  { bbchu : chubb }  { abiilnrz : brazilin }  { beggiilnu : beguiling }  { aaadelnpqu : aquaplaned }
+19...   { ey : ye }  { ew : we }  { cddefiimnostu : undiscomfited }  { et : te }  { aehopssstw : sweatshops }  { aceefiilrsss : reclassifies }  { cceiiijmnnoort : microinjection }  { aaagmnnrss : mannagrass }  { cdinoorrttuy : introductory }  { aehopsssty : hypostases }  { cehhiopprrty : hypertrophic }  { eg : ge }  { eefiilmtx : flexitime }  { ex : ex }  { es : es }  { er : er re }  { eo : eo oe }  { en : en ne }  { ceiiimmprs : empiricism }  { em : em me }  { el : el }  { eh : eh he }  { ef : ef }  { ee : ee }  { adeeiklmr : dreamlike }  { cdkknooors : doorknocks }  { adeeeginnorst : degenerations }  { bcnorssu : crossbun }
+
+Number of words = 199740        tableSize = 10001
+Total number of nonEmpty buckets = 10001
+Percent empty = 0
+Longest chain = 84
+
+Rechecking all words to see if they are in the dictionary...
+Hit count = 199740,  elapsed time = 203.
+Opened file full.txt.
+Done writing to file full.txt, elapsed time = 311
+Press any key to continue tests...
+
+START FIND MIRROR ANAGRAMS TEST
+Creating reversed word list...
+Counting mirror words.Hit count = 1439,  elapsed time = 311.
+
+Creating mirror words dictionary...Done creating mirror word dictionary, elapsed time = 602.
+Opened file symmetric.txt.
+Done writing to file symmetric.txt, elapsed time = 605
+END FIND MIRROR ANAGRAMS TEST
+
+Found  164883 words with      1 anagramatic form.  Elapsed time = 224.
+Found   22862 words with      2 anagramatic forms. Elapsed time = 192.
+Found    6981 words with      3 anagramatic forms. Elapsed time = 194.
+Found    2720 words with      4 anagramatic forms. Elapsed time = 268.
+Found    1170 words with      5 anagramatic forms. Elapsed time = 230.
+Found     534 words with      6 anagramatic forms. Elapsed time = 217.
+Found     357 words with      7 anagramatic forms. Elapsed time = 204.
+Found      96 words with      8 anagramatic forms. Elapsed time = 204.
+Found      72 words with      9 anagramatic forms. Elapsed time = 255.
+Found      30 words with     10 anagramatic forms. Elapsed time = 250.
+Found      11 words with     11 anagramatic forms. Elapsed time = 227.
+Found      24 words with     12 anagramatic forms. Elapsed time = 275.
+Found       0 words with     13 anagramatic forms. Elapsed time = 205.
+
+START REMOVE TEST...
+Done removing 199735 words, elapsed time = 248.
+All nonempty buckets of current dictionary are printed below.
+6012... { cefiinnnooprt : nonproficient }
+6910... { ainprsssu : prussians }
+7013... { aemnot : toname }
+9510... { adgiijnuz : judaizing }
+9605... { ehlssttu : shuttles }
+
+Number of words = 5     tableSize = 10001
+Total number of nonEmpty buckets = 5
+Percent empty = 99.95
+Longest chain = 1
+
+Hit count = 5,  elapsed time = 111.
+END REMOVE TEST
+
+
+START REMOVE TEST...
+Done removing 5 words, elapsed time = 121.
+All nonempty buckets of current dictionary are printed below.
+
+Number of words = 0     tableSize = 10001
+Total number of nonEmpty buckets = 0
+Percent empty = 100
+Longest chain = 0
+
+Hit count = 0,  elapsed time = 112.
+END REMOVE TEST
+
+
+START INSERTION TEST...
+Done inserting 199740 words, elapsed time = 336.
+
+Hit count = 199740,  elapsed time = 213.
+END INSERTION TEST...
+
+
+START INSERTION TEST...
+Done inserting 199740 words, elapsed time = 264.
+
+Hit count = 199740,  elapsed time = 204.
+END INSERTION TEST...
+
+Enter an anagram or q to quit: sacre
+serac scrae scare races carse cares acres acers
+Enter an anagram or q to quit: cat
+cat act
+Enter an anagram or q to quit: q
+Press any key to exit.

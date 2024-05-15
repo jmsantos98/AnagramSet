@@ -1,0 +1,119 @@
+What is the file name? words.txt
+Press Enter to start tests.
+Starting Tests...
+Read in 199740 words
+Done reading words, elapsed time = 21
+
+Press any key to continue
+
+Done creating dictionary, elapsed time = 290
+The first 20 nonempty buckets of the dictionary are printed below.
+3...    { cdeiiimprsstv : descriptivism }
+4...    { aacmrrst : tramcars }
+8...    { aabcillnoty : botanically }
+11...   { hmmrsstuu : humstrums }
+14...   { aabeefilnnotu : fontainebleau }  { aaelmrrtux : extramural }
+15...   { abeilnnors : selbornian }
+16...   { ablss : slabs }  { ablsy : blays }  { ablst : blast blats }  { ablsw : bawls }  { ablsu : balus }
+18...   { aimosw : miaows }  { aimosu : miaous }  { aimost : maoist taoism }  { aadfmnrst : draftsman }  { aimosx : axioms }
+19...   { ey : ye }  { ew : we }  { et : te }  { eg : ge }  { ex : ex }  { es : es }  { er : er re }  { eo : eo oe }  { en : en ne }  { em : em me }  { el : el }  { eh : eh he }  { ef : ef }  { ee : ee }
+20...   { gilmoossty : myologists }  { acemnooorssttu : entomostracous }
+23...   { eeillmpr : impeller }
+24...   { ceehimmnnosstt : mnemotechnists }
+25...   { pssuy : pussy }
+28...   { deillw : willed }  { deillr : rilled }  { deillp : pilled }  { deilln : nilled }  { deillm : milled }  { deillt : lilted tilled }  { deillu : illude }  { adeeiilnstz : destalinize }
+29...   { deeelnnrsss : slenderness }
+32...   { ddeellnoruw : wellrounded }
+34...   { adeeoprrssv : overspreads }
+35...   { cceiinnnssu : cincinnuses }
+36...   { adeeehnorssstttu : stoutheartedness }  { egilnrst : ringlets sterling tinglers tringles }  { egilnrss : ringless slingers }  { egilnrsw : newsgirl }
+38...   { aadenrv : veranda }  { cikppsu : pickups }  { cemosstu : costumes }  { aadenrw : awarned }
+
+Number of words = 199740        tableSize = 200001
+Total number of nonEmpty buckets = 105809
+Percent empty = 47.0958
+Longest chain = 57
+
+Rechecking all words to see if they are in the dictionary...
+Hit count = 199740,  elapsed time = 143.
+Opened file full.txt.
+Done writing to file full.txt, elapsed time = 454
+Press any key to continue tests...
+
+START FIND MIRROR ANAGRAMS TEST
+Creating reversed word list...
+Counting mirror words.Hit count = 1439,  elapsed time = 178.
+
+Creating mirror words dictionary...Done creating mirror word dictionary, elapsed time = 350.
+Opened file symmetric.txt.
+Done writing to file symmetric.txt, elapsed time = 352
+END FIND MIRROR ANAGRAMS TEST
+
+Found  164883 words with      1 anagramatic form.  Elapsed time = 146.
+Found   22862 words with      2 anagramatic forms. Elapsed time = 138.
+Found    6981 words with      3 anagramatic forms. Elapsed time = 139.
+Found    2720 words with      4 anagramatic forms. Elapsed time = 147.
+Found    1170 words with      5 anagramatic forms. Elapsed time = 144.
+Found     534 words with      6 anagramatic forms. Elapsed time = 140.
+Found     357 words with      7 anagramatic forms. Elapsed time = 146.
+Found      96 words with      8 anagramatic forms. Elapsed time = 156.
+Found      72 words with      9 anagramatic forms. Elapsed time = 161.
+Found      30 words with     10 anagramatic forms. Elapsed time = 155.
+Found      11 words with     11 anagramatic forms. Elapsed time = 147.
+Found      24 words with     12 anagramatic forms. Elapsed time = 151.
+Found       0 words with     13 anagramatic forms. Elapsed time = 146.
+
+START REMOVE TEST...
+Done removing 199735 words, elapsed time = 215.
+All nonempty buckets of current dictionary are printed below.
+37815...        { adgiijnuz : judaizing }
+41330...        { ainprsssu : prussians }
+45191...        { aemnot : toname }
+81866...        { ehlssttu : shuttles }
+91864...        { cefiinnnooprt : nonproficient }
+
+Number of words = 5     tableSize = 200001
+Total number of nonEmpty buckets = 5
+Percent empty = 99.9975
+Longest chain = 1
+
+Hit count = 5,  elapsed time = 109.
+END REMOVE TEST
+
+
+START REMOVE TEST...
+Done removing 5 words, elapsed time = 124.
+All nonempty buckets of current dictionary are printed below.
+
+Number of words = 0     tableSize = 200001
+Total number of nonEmpty buckets = 0
+Percent empty = 100
+Longest chain = 0
+
+Hit count = 0,  elapsed time = 111.
+END REMOVE TEST
+
+
+START INSERTION TEST...
+Done inserting 199740 words, elapsed time = 301.
+
+Hit count = 199740,  elapsed time = 143.
+END INSERTION TEST...
+
+
+START INSERTION TEST...
+Done inserting 199740 words, elapsed time = 226.
+
+Hit count = 199740,  elapsed time = 159.
+END INSERTION TEST...
+
+Enter an anagram or q to quit: mouse
+mouse moues
+Enter an anagram or q to quit: flow
+wolf fowl flow
+Enter an anagram or q to quit: pkeas
+speak spake peaks
+Enter an anagram or q to quit: mprily
+primly
+Enter an anagram or q to quit: q
+Press any key to exit.

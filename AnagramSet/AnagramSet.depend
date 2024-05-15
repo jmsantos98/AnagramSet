@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1683609197 source:c:\users\jm\onedrive\desktop\labassignment18\letterbag.cpp
+	"LetterBag-1.h"
+
+1683570602 c:\users\jm\onedrive\desktop\labassignment18\letterbag-1.h
+	<vector>
+	<iostream>
+
+1684615460 source:c:\users\jm\onedrive\desktop\labassignment18\main.cpp
+	<iostream>
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+
+1684608942 c:\users\jm\onedrive\desktop\labassignment18\include\anagramset.h
+	"LetterBag-1.h"
+	<iostream>
+	<algorithm>
+
+1684476532 c:\users\jm\onedrive\desktop\labassignment18\include\letterbag-1.h
+	<vector>
+	<iostream>
+
+1684615303 source:c:\users\jm\onedrive\desktop\labassignment18\src\anagramset.cpp
+	"AnagramSet.h"
+
+1684476532 source:c:\users\jm\onedrive\desktop\labassignment18\src\letterbag.cpp
+	"LetterBag-1.h"
+
+1684868607 source:c:\users\jm\onedrive\desktop\labassignment18\src\dictionary.cpp
+	"Dictionary.h"
+
+1684615582 c:\users\jm\onedrive\desktop\labassignment18\include\dictionary.h
+	"AnagramSet.h"
+	"fstream"
+	<string>
+	<algorithm>
+
+1684462720 source:c:\users\jmsantos\desktop\labassignment18\main.cpp
+	<iostream>
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+
+1684462839 c:\users\jmsantos\desktop\labassignment18\include\dictionary.h
+	"AnagramSet.h"
+	"fstream"
+	<string>
+	<algorithm>
+
+1684449897 c:\users\jmsantos\desktop\labassignment18\include\anagramset.h
+	"LetterBag-1.h"
+	<iostream>
+	<algorithm>
+
+1684449897 c:\users\jmsantos\desktop\labassignment18\include\letterbag-1.h
+	<vector>
+	<iostream>
+
+1684463554 source:c:\users\jmsantos\desktop\labassignment18\src\anagramset.cpp
+	"AnagramSet.h"
+
+1684462905 source:c:\users\jmsantos\desktop\labassignment18\src\dictionary.cpp
+	"Dictionary.h"
+
+1684449897 source:c:\users\jmsantos\desktop\labassignment18\src\letterbag.cpp
+	"LetterBag-1.h"
+

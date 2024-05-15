@@ -1,0 +1,65 @@
+Enter the file name: test.txt
+Here is the dictionary...
+0...    { ahppy : happy }
+2...    { acers : acres races cares }
+3...    { z : z }  { y : y }  { x : x }  { abc : abc bac bca cab cba }  { ab : ab }
+4...    { eirt : tire }  { ppqqrrss : sspprrqq }  { aet : eat tea }  { aer : are }
+5...    { pqrs : pqrs sprq }  { in : in }
+6...    { aberz : zebra }
+12...   { otu : out }  { act : cat act }
+
+Number of words = 25    tableSize = 13
+Total number of nonEmpty buckets = 7
+Percent empty = 46.1538
+Longest chain = 5
+
+Enter an anagram: acb
+Matching words are: abc bac bca cab cba
+Enter a list of words to insert followed by 'q': acb rite tire y eta ni q
+The words were inserted.
+Enter a list of words to remove followed by 'q': x act cat q
+"x" was removed.
+"act" was removed.
+"cat" was removed.
+3 words were removed.
+The new dictionary is...
+0...    { ahppy : happy }
+2...    { acers : acres races cares }
+3...    { z : z }  { y : y }  { abc : abc bac bca cab cba acb }  { ab : ab }
+4...    { eirt : tire rite }  { ppqqrrss : sspprrqq }  { aet : eat tea eta }  { aer : are }
+5...    { pqrs : pqrs sprq }  { in : in ni }
+6...    { aberz : zebra }
+12...   { otu : out }
+
+Number of words = 28    tableSize = 13
+Total number of nonEmpty buckets = 7
+Percent empty = 46.1538
+Longest chain = 4
+
+Continue? y
+Enter an anagram: etri
+Matching words are: tire rite
+Enter a list of words to insert followed by 'q': q
+The words were inserted.
+Enter a list of words to remove followed by 'q': sprq q
+"sprq" was removed.
+1 word was removed.
+The new dictionary is...
+0...    { ahppy : happy }
+2...    { acers : acres races cares }
+3...    { z : z }  { y : y }  { abc : abc bac bca cab cba acb }  { ab : ab }
+4...    { eirt : tire rite }  { ppqqrrss : sspprrqq }  { aet : eat tea eta }  { aer : are }
+5...    { pqrs : pqrs }  { in : in ni }
+6...    { aberz : zebra }
+12...   { otu : out }
+
+Number of words = 27    tableSize = 13
+Total number of nonEmpty buckets = 7
+Percent empty = 46.1538
+Longest chain = 4
+
+Continue? n
+Bye!
+
+Process returned 0 (0x0)   execution time : 46.604 s
+Press any key to continue.
